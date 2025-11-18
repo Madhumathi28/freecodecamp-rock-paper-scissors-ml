@@ -16,4 +16,4 @@ print("\nTesting against Mrugesh...")
 play(player, mrugesh, 1000)
 
 # Uncomment the line below to run the unit tests
-# main(module='test_module', exit=False)
+ main(module='test_module', exit=False)
